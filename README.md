@@ -3,7 +3,7 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Thales Pereira Leite
+- Matricula: 00890646
 
 ## Print da tela da página criad
