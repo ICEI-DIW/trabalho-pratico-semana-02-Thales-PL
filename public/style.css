@@ -1,0 +1,33 @@
+header{
+    font-size: 15px;
+}
+body{
+    font-size: 0,6cm;
+}
+img{
+ display: block;
+    block-size: 10pc;
+
+}
+
+#Caracteristicas{
+    display: block;
+    block-size: 20pc;
+    width: 30%;
+    float: left;
+
+}
+#informaçoes{
+    width: 30%;
+    font-size: small;
+
+}
+
+table{
+width: 100%;
+color: gray;
+}
+#Cabeçalho{
+    font-size: large;
+
+}
