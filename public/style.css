@@ -7,7 +7,7 @@ body{
 img{
  display: block;
     block-size: 10pc;
-
+ border-radius: 5px;
 }
 
 #Caracteristicas{
